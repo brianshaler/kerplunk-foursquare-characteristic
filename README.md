@@ -1,6 +1,6 @@
 # kerplunk-foursquare-characteristic
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Take aspects of Foursquare checkins and turn them into Characteristics
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-foursquare-characteristic.svg)](https://travis-ci.org/brianshaler/kerplunk-foursquare-characteristic)
 [![npm version](https://img.shields.io/npm/v/kerplunk-foursquare-characteristic.svg)](https://www.npmjs.com/package/kerplunk-foursquare-characteristic)
