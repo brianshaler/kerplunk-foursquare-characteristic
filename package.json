@@ -2,7 +2,7 @@
   "name": "kerplunk-foursquare-characteristic",
   "displayName": "Foursquare characteristics",
   "description": "Take aspects of Foursquare checkins and turn them into Characteristics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "permissions": {
       "kerplunk-characteristic": {
